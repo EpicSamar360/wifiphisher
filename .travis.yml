@@ -44,6 +44,6 @@ notifications:
 
 addons:
     apt:
-        packages:
-          - hostapd
-          - dnsmasq
+      packages:
+        - hostapd
+        - dnsmasq
