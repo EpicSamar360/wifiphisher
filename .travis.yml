@@ -9,7 +9,6 @@ dist: Bionic
 #  - "2.7"
 
 install:
-  - pip install --user pip --upgrade
   - pip install pylint tox scapy
   - pip install tornado==4.5.3
   - python setup.py install
@@ -48,3 +47,4 @@ addons:
       packages:
         - hostapd
         - dnsmasq
+        - pip
