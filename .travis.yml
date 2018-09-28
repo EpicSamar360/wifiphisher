@@ -1,7 +1,7 @@
 # There's no sudo: required because it slows down Travis CI job startup
 # and we don't really need it with addons: apt.
 
-language: python
+language: generic
 
 dist: Bionic
 
