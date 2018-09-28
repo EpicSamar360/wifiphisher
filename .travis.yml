@@ -3,7 +3,7 @@
 
 language: generic
 
-dist: Bionic
+dist: Xenial
 
 #python:
 #  - "2.7"
