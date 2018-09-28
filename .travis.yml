@@ -3,7 +3,7 @@
 
 language: python
 
-dist: trusty
+dist: Bionic
 
 python:
   - "2.7"
