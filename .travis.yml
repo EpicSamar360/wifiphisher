@@ -3,7 +3,7 @@
 
 language: python
 
-dist: Xenial
+dist: trusty
 
 #python:
 #  - "2.7"
